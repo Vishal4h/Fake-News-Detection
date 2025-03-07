@@ -1,8 +1,0 @@
-pandas
-numpy
-nltk
-scikit-learn
-streamlit
-matplotlib
-seaborn
-wordcloud

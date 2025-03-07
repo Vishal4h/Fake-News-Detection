@@ -99,3 +99,4 @@ if st.button("🔍 Predict"):
 
         else:
             st.warning("⚠️ Please enter text or upload a file before clicking 'Predict'.")
+        
