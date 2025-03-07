@@ -9,4 +9,4 @@ A machine learning project to detect **fake news** using **Naive Bayes**.
 
 ## 🛠️ Setup
 1. Clone this repository:
-https://github.com/vishal4h/FakeNewsDetection.git
+https://github.com/Vishal4h/Fake-News-Detection.git
